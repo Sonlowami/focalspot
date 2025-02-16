@@ -81,7 +81,7 @@ function App() {
                     rel="noopener noreferrer" 
                     className="text-white hover:text-indigo-200 transition-colors"
                   >
-                    <Linkedin className="w-7 h-7" />
+                    <Linkedin className="w-7 h-7"/>
                   </a>
                 </div>
               </div>
